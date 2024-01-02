@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "img": "https://musicart.xboxlive.com/7/80a05a00-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "title": "black widow",
+      "rating": 8.2,
+      "type": "tvshows"
+    },
+    {
+      "id": 2,
+      "img": "https://resizing.flixster.com/GR9Ng2YYzyWn945sfqQrDO4Xgz8=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvUlRUVjI4MDUwNy53ZWJw",
+      "title": "lost in space",
+      "rating": 7.2,
+      "type": "film",
+      "text": "The mission to save Scarecrow takes an unexpected turn, throwing the Resolute into chaos. Judy hatches a plan to get a ship to Alpha Centauri.",
+      "data": "2018-04-13",
+      "season": "2",
+      "titleImg": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABaaOMiboSYEjO5NqFOrkatZE9VDTsN_E3SCFO8tR98BlU6hsg4Gn_QyCxp504MwI7H12R-vmBgWsImMcp3Z7layXjYFuOmIyb0K6.jpg?r=35b",
+      "time": "56 min",
+      "janr": "Action & Adventure, Sci-Fi & Fantasy, Drama"
+    },
+    {
+      "id": 3,
+      "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81xETRmcFwL._AC_UF1000,1000_QL80_.jpg",
+      "title": "loki",
+      "rating": 6.2,
+      "type": "tvshows"
+    },
+    {
+      "id": 4,
+      "img": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_FMjpg_UX1000_.jpg",
+      "title": "how i met your mother",
+      "rating": 8.2,
+      "type": "film"
+    },
+    {
+      "id": 5,
+      "img": "https://assets.gadgets360cdn.com/pricee/assets/product/202111/money_heist_season_5_1638276144.jpg",
+      "title": "money heist",
+      "rating": 4.2,
+      "type": "film"
+    },
+    {
+      "id": 6,
+      "img": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+      "title": "friends",
+      "rating": 6.2,
+      "type": "tvshows"
+    },
+    {
+      "id": 7,
+      "img": "https://www.tvguide.com/a/img/catalog/provider/1/1/1-6482810627.jpg",
+      "title": "the big bang theory",
+      "rating": 3.2,
+      "type": "film"
+    },
+    {
+      "id": 8,
+      "img": "https://m.media-amazon.com/images/S/pv-target-images/437231c5a9b6eb86cb7487e0df85cc0b4edc06accfc5f879ab838e1688d93d7e.jpg",
+      "title": "two and a half men",
+      "rating": 8.2,
+      "type": "film"
+    }
+  ]
+}

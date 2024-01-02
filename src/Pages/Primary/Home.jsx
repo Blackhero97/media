@@ -34,7 +34,7 @@ function Home(props) {
     <>
       <main className="container top">
         <div className="main-text-box">
-          <h2 className="title">Black Cinema</h2>
+          <h2 className="title">Black Cinema Films </h2>
           <p>
             Bu sayt orqali siz mening tanlovim bo'lgan filmlar va tvshows lar
             haqida ma`lumot olishingiz va qaysi ishonchi saytdan ko'rishingiz
